@@ -1,4 +1,17 @@
+Software project:
 Emily Lubar lubemi12@evergeen.edu
 Nat Sheppard shenat26@evergreen.edu
 
 Week 1 Goal: Get through at least 50% of the Python tutorial
+
+Hardware project
+Emily Lubar lubemi12@evergeen.edu
+Claude Silveira silmar08@evergreen.edu
+Kaila Marfori markai14@evergreen.edu
+Cliff Randolph rancli11@evergreen.edu
+Tyler Logan logtyl02@evergreen.edu
+
+Goal: read chapters 1-2 of Arduino Workshop
+
+Group goal: meet and figure out project (sunday at 1 in computer lab) Decide: pieces/budget
+
