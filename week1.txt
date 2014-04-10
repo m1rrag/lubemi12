@@ -26,6 +26,9 @@ drill (for jig)
 piece of wood (ver important)
 
 Reflection about week 1 goals:
+  It quickly became apparent that completing 50% of the python learning tutorial in the first week was unrealistic. I did my best though, and got through 25% percent. My goal for week two will be adjusted accordingly. 
+  I read the first part of The arduino workshop, not as thuroughly as I would have liked (My book didn't come until Tuesday) but I feel pretty prepared for the hardware project. 
+  My hardware project group met on Sunday and found a really cool project to work on. Only thing is my software partener feel through so I am transitioning in that aspect. 
 
   
 
