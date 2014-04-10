@@ -25,6 +25,10 @@ soldering iron
 drill (for jig)
 piece of wood (ver important)
 
+====
+Review from Mirrah:
+Good specific shopping list. Inlcude a sentence describing your final product- what it does, how it might work.
+
 Reflection about week 1 goals:
   It quickly became apparent that completing 50% of the python learning tutorial in the first week was unrealistic. I did my best though, and got through 25% percent. My goal for week two will be adjusted accordingly. 
   I read the first part of The arduino workshop, not as thuroughly as I would have liked (My book didn't come until Tuesday) but I feel pretty prepared for the hardware project. 
